@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @xalfi
-- 👀 I’m mainly interested in security related topics
-- 🌱 I’m currently learning about low level systems programming
 - 😄 Pronouns: he/him
 
 <!---
